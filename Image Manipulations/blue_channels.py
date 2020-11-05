@@ -4,7 +4,7 @@ import cv2
 
 
 """
-file: q2a.py
+
 CSCI-631:  COMPUTER VISION
 Author: Rajkumar Lenin Pillai
 
